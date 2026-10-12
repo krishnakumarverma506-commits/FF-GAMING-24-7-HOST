@@ -47,8 +47,8 @@ except ValueError:
     raise
 
 YOUR_USERNAME = '@Hackerwibes9'
-UPDATE_CHANNEL = 'https://t.me/geniushackertools'
-YOUTUBE_CHANNEL = 'https://youtube.com/@geniushacker29'
+UPDATE_CHANNEL = 'https://t.me/ffgaming_vip'
+YOUTUBE_CHANNEL = 'https://youtube.com/@ffgaming0.6?si=GlCDLlo7uGAFZtNv'
 CHANNEL_USERNAME = '@' + UPDATE_CHANNEL.rstrip('/').split('/')[-1]
 
 BASE_DIR = Path(__file__).parent.absolute()
